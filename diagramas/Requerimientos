@@ -1,33 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T22:36:40.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="tFqnbHHgb0gBffmsKfVX" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T22:56:41.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="G-gUkQOWOkg4GhJEpYWR" version="14.6.6" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="MgtnAiPwgGYpOKckHuma-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 7px ; text-align: left&quot;&gt;&lt;b&gt;req&lt;/b&gt;&amp;nbsp;i-Lunch_Requerimientos&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=171;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="1280" height="720" as="geometry" />
+          <mxGeometry x="40" y="40" width="1680" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="MgtnAiPwgGYpOKckHuma-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Registro de restaurantes&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R1.2&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe permitir a los administradores de restaurante suministrar los datos su restaurante para trabajar con i-Lunch &quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="180" width="200" height="135" as="geometry" />
+        <mxCell id="MgtnAiPwgGYpOKckHuma-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Registro de restaurantes&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 1.2&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe permitir a los administradores de restaurante suministrar los datos su restaurante en un formulario para trabajar con&amp;nbsp; i-Lunch &quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="MgtnAiPwgGYpOKckHuma-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Registro de cuentas&lt;/b&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="80" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MgtnAiPwgGYpOKckHuma-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Registro de usuarios&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe permitir a los usuarios registrar su cuenta en la aplicación y seleccionar el rol de Clientes&quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="180" width="200" height="135" as="geometry" />
+        <mxCell id="MgtnAiPwgGYpOKckHuma-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Registro de usuarios&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe permitir a los usuarios registrar su cuenta en la aplicación, verificarla con su número telefónico y seleccionar el rol de Clientes&quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="MgtnAiPwgGYpOKckHuma-16" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;" edge="1" source="MgtnAiPwgGYpOKckHuma-6" target="MgtnAiPwgGYpOKckHuma-8" parent="1">
+        <mxCell id="MgtnAiPwgGYpOKckHuma-16" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" source="MgtnAiPwgGYpOKckHuma-6" target="MgtnAiPwgGYpOKckHuma-8" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="285" y="120" as="sourcePoint" />
+            <mxPoint x="290" y="145" as="sourcePoint" />
             <mxPoint x="195" y="180" as="targetPoint" />
             <Array as="points">
               <mxPoint x="350" y="145" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MgtnAiPwgGYpOKckHuma-19" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.55;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MgtnAiPwgGYpOKckHuma-6" target="MgtnAiPwgGYpOKckHuma-5">
+        <mxCell id="MgtnAiPwgGYpOKckHuma-19" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;entryX=0.55;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MgtnAiPwgGYpOKckHuma-6" target="MgtnAiPwgGYpOKckHuma-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="120" as="sourcePoint" />
+            <mxPoint x="400" y="145" as="sourcePoint" />
             <mxPoint x="360" y="170" as="targetPoint" />
             <Array as="points">
               <mxPoint x="470" y="145" />
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MgtnAiPwgGYpOKckHuma-20" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt; &lt;b&gt;cuentas:&amp;nbsp;&lt;/b&gt;Registro de restaurante en la aplicación" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="280" y="380" width="360" height="40" as="geometry" />
+          <mxGeometry x="280" y="420" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MgtnAiPwgGYpOKckHuma-22" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="MgtnAiPwgGYpOKckHuma-20" target="MgtnAiPwgGYpOKckHuma-5" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -43,12 +43,57 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MgtnAiPwgGYpOKckHuma-24" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt; &lt;b&gt;cuentas:&amp;nbsp;&lt;/b&gt;Registro de cuenta en la aplicación" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50" y="330" width="340" height="40" as="geometry" />
+          <mxGeometry x="50" y="360" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MgtnAiPwgGYpOKckHuma-25" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MgtnAiPwgGYpOKckHuma-24" target="MgtnAiPwgGYpOKckHuma-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="330" as="sourcePoint" />
             <mxPoint x="470" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgtnAiPwgGYpOKckHuma-32" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Restaurantes cercanos&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 2.2&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe permitir a los clientes observar en una lista y un mapa que restaurantes registrados en la aplicación están en un rango cercano a el&quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="980" y="150" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MgtnAiPwgGYpOKckHuma-33" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Busqueda de restaurantes&lt;/b&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="900" y="80" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MgtnAiPwgGYpOKckHuma-34" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Consulta de restaurantes&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 2.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe permitir a los clientes buscar y consultar los restaurantes registrados en la aplicación para saber si puede hacerle un pedido a dicho restaurante&quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="80" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MgtnAiPwgGYpOKckHuma-35" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MgtnAiPwgGYpOKckHuma-33" target="MgtnAiPwgGYpOKckHuma-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="145" as="sourcePoint" />
+            <mxPoint x="845" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgtnAiPwgGYpOKckHuma-36" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MgtnAiPwgGYpOKckHuma-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1095" y="120" as="sourcePoint" />
+            <mxPoint x="1010" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="140" />
+              <mxPoint x="1230" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgtnAiPwgGYpOKckHuma-37" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt; &lt;b&gt;cuentas:&amp;nbsp;&lt;/b&gt;Registro de restaurante en la aplicación" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="915" y="310" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MgtnAiPwgGYpOKckHuma-38" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MgtnAiPwgGYpOKckHuma-37" target="MgtnAiPwgGYpOKckHuma-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgtnAiPwgGYpOKckHuma-39" value="RefinedBy&lt;br&gt;&lt;b&gt;Al momento de hacer el diagrama falta este caso de uso&lt;/b&gt;" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="250" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MgtnAiPwgGYpOKckHuma-40" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MgtnAiPwgGYpOKckHuma-39" target="MgtnAiPwgGYpOKckHuma-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="330" as="sourcePoint" />
+            <mxPoint x="1120" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
