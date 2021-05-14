@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T22:56:41.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="G-gUkQOWOkg4GhJEpYWR" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T22:57:05.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="lj3G4BwwSzwcIKAaYsZI" version="14.6.6" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="1673" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="MgtnAiPwgGYpOKckHuma-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 7px ; text-align: left&quot;&gt;&lt;b&gt;req&lt;/b&gt;&amp;nbsp;i-Lunch_Requerimientos&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=171;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="1680" height="720" as="geometry" />
+          <mxGeometry x="40" y="40" width="1640" height="720" as="geometry" />
         </mxCell>
         <mxCell id="MgtnAiPwgGYpOKckHuma-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Registro de restaurantes&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 1.2&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe permitir a los administradores de restaurante suministrar los datos su restaurante en un formulario para trabajar con&amp;nbsp; i-Lunch &quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="360" y="180" width="200" height="140" as="geometry" />
@@ -79,7 +79,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MgtnAiPwgGYpOKckHuma-37" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt; &lt;b&gt;cuentas:&amp;nbsp;&lt;/b&gt;Registro de restaurante en la aplicación" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="MgtnAiPwgGYpOKckHuma-37" value="RefinedBy&lt;br&gt;&lt;b&gt;Al momento de hacer el diagrama falta este caso de uso&lt;/b&gt;" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="915" y="310" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MgtnAiPwgGYpOKckHuma-38" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MgtnAiPwgGYpOKckHuma-37" target="MgtnAiPwgGYpOKckHuma-32">
