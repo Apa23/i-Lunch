@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T18:41:09.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="5rpOUcjJks1t6iBIrklV" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T20:51:31.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="78ItghX-BppHu-FylLW2" version="14.6.13" type="github">
   <diagram id="1xsWs5C1Qi4gCplDLGIl" name="Page-1">
-    <mxGraphModel dx="1483" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -407,7 +407,7 @@
         <mxCell id="pjJrgI3MQ-hdJMZlSKrB-5" value="Empleado&lt;br&gt;Potencial" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="114" y="1080" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pjJrgI3MQ-hdJMZlSKrB-6" value="Registrarse Como&lt;br&gt;Trabajador" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+        <mxCell id="pjJrgI3MQ-hdJMZlSKrB-6" value="Llenar Formulario De Red De Trabajo" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="214" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pjJrgI3MQ-hdJMZlSKrB-7" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="pjJrgI3MQ-hdJMZlSKrB-6" target="pjJrgI3MQ-hdJMZlSKrB-5" edge="1">
