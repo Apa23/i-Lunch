@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T00:09:24.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="PEvLMc5d0auEK41GMRVZ" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T00:20:09.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="gFLc9UBDhtbMKjy330b3" version="14.6.13" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="2450" dy="1330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1225" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -204,7 +204,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-25" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Seleccionar método de pago&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 3.4&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe permitir a los clientes seleccionar el método de pago que desee y que a su vez el restaurante acepte&quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="751" y="738.0999999999999" width="230" height="131.9" as="geometry" />
+          <mxGeometry x="730" y="974.05" width="230" height="131.9" as="geometry" />
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-26" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="N5--jmAgKca2blahSVL8-25" source="N5--jmAgKca2blahSVL8-3">
           <mxGeometry relative="1" as="geometry">
@@ -223,11 +223,39 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-27" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;pedidos:&amp;nbsp;&lt;/b&gt;Proceso de realizar pedido" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="721" y="889.9999999999999" width="290" height="40" as="geometry" />
+          <mxGeometry x="700" y="1125.9499999999998" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-28" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="N5--jmAgKca2blahSVL8-27" target="N5--jmAgKca2blahSVL8-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="980.8299999999999" y="1286.1499999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N5--jmAgKca2blahSVL8-29" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Notificaciones&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 3.5&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe notificar a los clientes todas las actualizaciones del proceso de su pedido&quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="890" y="768.1" width="230" height="121.9" as="geometry" />
+        </mxCell>
+        <mxCell id="N5--jmAgKca2blahSVL8-30" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="N5--jmAgKca2blahSVL8-29" source="N5--jmAgKca2blahSVL8-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="660" as="sourcePoint" />
+            <mxPoint x="1235.83" y="708.1" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="670" />
+              <mxPoint x="1055" y="660" />
+              <mxPoint x="1160" y="778.1" />
+              <mxPoint x="1170" y="888.1" />
+              <mxPoint x="1120" y="628.1" />
+              <mxPoint x="1525.83" y="618.1" />
+              <mxPoint x="1205.83" y="628.1" />
+              <mxPoint x="1285.83" y="678.1" />
+              <mxPoint x="1455.83" y="638.1" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N5--jmAgKca2blahSVL8-31" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;pedidos:&amp;nbsp;&lt;/b&gt;Proceso de realizar pedido" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="860" y="909.9999999999999" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N5--jmAgKca2blahSVL8-32" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="N5--jmAgKca2blahSVL8-31" target="N5--jmAgKca2blahSVL8-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1135.83" y="1236.1499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
