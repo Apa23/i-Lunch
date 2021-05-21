@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T00:32:23.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="BZ4sacC0SM74cCHNAS_B" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T00:38:11.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="qcELmgZGw9R9_Ezj7-tE" version="14.6.13" type="github">
   <diagram id="YmuwL_pP-1vpOrD3xJTi" name="Page-1">
     <mxGraphModel dx="1935" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,18 +127,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M8_snSER8nSZ1QXDSIi7-41" value="&lt;div style=&quot;text-align: justify&quot;&gt;C11 No tiene forma de publicitarse&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="300" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="M8_snSER8nSZ1QXDSIi7-43" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="M8_snSER8nSZ1QXDSIi7-44" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-153" y="185" as="sourcePoint" />
-            <mxPoint x="-30" y="315" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M8_snSER8nSZ1QXDSIi7-44" value="&lt;div style=&quot;text-align: justify&quot;&gt;C12 No cuenta con infraestructura tecnologica&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="250" width="150" height="30" as="geometry" />
+        <mxCell id="M8_snSER8nSZ1QXDSIi7-41" value="&lt;div style=&quot;text-align: justify&quot;&gt;C11 No cuentan con el conocimiento o los recursos para generar estrategias publicitarias&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="290" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M8_snSER8nSZ1QXDSIi7-46" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="M8_snSER8nSZ1QXDSIi7-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -146,8 +136,8 @@
             <mxPoint x="90" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M8_snSER8nSZ1QXDSIi7-48" value="&lt;div style=&quot;text-align: justify&quot;&gt;C13 No se encuentra registrado en las redes&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="340" width="130" height="30" as="geometry" />
+        <mxCell id="M8_snSER8nSZ1QXDSIi7-48" value="&lt;div style=&quot;text-align: justify&quot;&gt;C12 No se encuentra registrado en plataformas digitales&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="340" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M8_snSER8nSZ1QXDSIi7-49" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="M8_snSER8nSZ1QXDSIi7-48" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
