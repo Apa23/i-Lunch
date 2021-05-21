@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T00:22:57.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="MXpyOD18nuy1KvIkZTNy" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T00:24:19.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="4Xnvw8-D-f97p6nRnheK" version="14.6.12" type="github">
   <diagram id="uHQbvLGke_DWCvCAA1Y4" name="Page-1">
-    <mxGraphModel dx="3300" dy="3113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1179" dy="1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
         <mxCell id="euNgrL8HAEqi_BsGp-jW-86" value="Restaurante" style="swimlane;html=1;startSize=60;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="70" y="150" width="60" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="euNgrL8HAEqi_BsGp-jW-229" value="Proceso de venta&amp;nbsp;" style="swimlane;html=1;startSize=60;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="euNgrL8HAEqi_BsGp-jW-229" value="Proceso de orden y venta de domicilio&amp;nbsp;" style="swimlane;html=1;startSize=60;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="10" y="730" width="60" height="640" as="geometry" />
         </mxCell>
         <mxCell id="euNgrL8HAEqi_BsGp-jW-230" value="Cliente" style="swimlane;html=1;startSize=60;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
