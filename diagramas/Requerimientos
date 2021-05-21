@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T00:20:09.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="gFLc9UBDhtbMKjy330b3" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T00:27:37.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="gLHCez1OnEpd8yP7rZTx" version="14.6.13" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="1225" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="MgtnAiPwgGYpOKckHuma-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 7px ; text-align: left&quot;&gt;&lt;b&gt;req&lt;/b&gt;&amp;nbsp;i-Lunch_Requerimientos&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=171;strokeWidth=2;align=center;" parent="1" vertex="1">
-          <mxGeometry x="40" y="120" width="1640" height="1130" as="geometry" />
+          <mxGeometry x="40" y="120" width="1680" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="MgtnAiPwgGYpOKckHuma-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Registro de restaurantes&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 1.2&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe permitir a los administradores de restaurante suministrar los datos su restaurante en un formulario para trabajar con&amp;nbsp; i-Lunch &quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="360" y="260" width="200" height="140" as="geometry" />
@@ -100,162 +100,155 @@
           <mxGeometry x="30" y="44" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Editar el pedido&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 3.2&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe permitir a los clientes editar su pedido, ya sea eliminando elementos que pertenecen a el o ya sea editando aspectos de estos elementos como las epecificaciones y las cantidades&quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="115" y="990" width="230" height="160" as="geometry" />
+          <mxGeometry x="115" y="880" width="230" height="160" as="geometry" />
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Proceso de pedidos&lt;/b&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="305" y="700" width="270" height="40" as="geometry" />
+          <mxGeometry x="305" y="590" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Añadir productos al pedido&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 3.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe permitir a los clientes explorar la oferta de cada restaurante y poder añadir uno o vario elementos de esta a su pedido&quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="85" y="770" width="220" height="130" as="geometry" />
+          <mxGeometry x="85" y="660" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-5" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="N5--jmAgKca2blahSVL8-3" target="N5--jmAgKca2blahSVL8-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="730" as="sourcePoint" />
-            <mxPoint x="295" y="860" as="targetPoint" />
+            <mxPoint x="250" y="620" as="sourcePoint" />
+            <mxPoint x="295" y="750" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="195" y="720" />
-              <mxPoint x="195" y="730" />
-              <mxPoint x="240" y="710" />
-              <mxPoint x="240" y="730" />
-              <mxPoint x="280" y="730" />
-              <mxPoint x="180" y="730" />
+              <mxPoint x="195" y="610" />
+              <mxPoint x="195" y="620" />
+              <mxPoint x="240" y="600" />
+              <mxPoint x="240" y="620" />
+              <mxPoint x="280" y="620" />
+              <mxPoint x="180" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-6" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="N5--jmAgKca2blahSVL8-2" source="N5--jmAgKca2blahSVL8-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="545" y="800" as="sourcePoint" />
-            <mxPoint x="460" y="850" as="targetPoint" />
+            <mxPoint x="545" y="690" as="sourcePoint" />
+            <mxPoint x="460" y="740" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="970" />
-              <mxPoint x="390" y="780" />
-              <mxPoint x="430" y="770" />
-              <mxPoint x="510" y="820" />
-              <mxPoint x="680" y="780" />
+              <mxPoint x="360" y="860" />
+              <mxPoint x="390" y="670" />
+              <mxPoint x="430" y="660" />
+              <mxPoint x="510" y="710" />
+              <mxPoint x="680" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-7" value="RefinedBy&lt;br&gt;&lt;b&gt;Al momento de hacer el diagrama falta este caso de uso&lt;/b&gt;" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1170" width="360" height="40" as="geometry" />
+          <mxGeometry x="50" y="1060" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-8" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="N5--jmAgKca2blahSVL8-7" target="N5--jmAgKca2blahSVL8-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="545" y="1239" as="targetPoint" />
+            <mxPoint x="545" y="1129" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-9" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;pedidos:&amp;nbsp;&lt;/b&gt;Proceso de realizar pedido" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50" y="920" width="290" height="40" as="geometry" />
+          <mxGeometry x="50" y="810" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-10" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="N5--jmAgKca2blahSVL8-9" target="N5--jmAgKca2blahSVL8-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="1010" as="sourcePoint" />
-            <mxPoint x="570" y="1005" as="targetPoint" />
+            <mxPoint x="370" y="900" as="sourcePoint" />
+            <mxPoint x="570" y="895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-17" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Forma de recibir el pedido&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 3.3&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe permitir a los clientes seleccionar las maneras de recibir su pedido, las cuales pueden ser: domicilio, pedir para consumir en el local, pedir para recoger en el restaurante y llevárselo&quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="400.09000000000003" y="770" width="230" height="160" as="geometry" />
+          <mxGeometry x="400.09000000000003" y="660" width="230" height="160" as="geometry" />
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-18" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.777;exitY=1.012;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="N5--jmAgKca2blahSVL8-17" source="N5--jmAgKca2blahSVL8-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="750" as="sourcePoint" />
-            <mxPoint x="470" y="860" as="targetPoint" />
+            <mxPoint x="400" y="640" as="sourcePoint" />
+            <mxPoint x="470" y="750" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="500" y="760" />
-              <mxPoint x="760" y="770" />
-              <mxPoint x="440" y="780" />
-              <mxPoint x="520" y="830" />
-              <mxPoint x="690" y="790" />
+              <mxPoint x="500" y="650" />
+              <mxPoint x="760" y="660" />
+              <mxPoint x="440" y="670" />
+              <mxPoint x="520" y="720" />
+              <mxPoint x="690" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-19" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;pedidos:&amp;nbsp;&lt;/b&gt;Proceso de realizar pedido" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="373.0000000000001" y="950" width="284.17" height="40" as="geometry" />
+          <mxGeometry x="373.0000000000001" y="840" width="284.17" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-20" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="N5--jmAgKca2blahSVL8-19" target="N5--jmAgKca2blahSVL8-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="1089" as="targetPoint" />
+            <mxPoint x="570" y="979" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-21" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Forma de recibir el pedido&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 3.3&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe permitir a los clientes seleccionar las maneras de recibir su pedido, las cuales pueden ser: domicilio, pedir para consumir en el local, pedir para recoger en el restaurante y llevárselo&quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="449.9999999999999" y="1010" width="230" height="160" as="geometry" />
+          <mxGeometry x="449.9999999999999" y="900" width="230" height="160" as="geometry" />
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-22" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1.001;exitY=0.845;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="N5--jmAgKca2blahSVL8-21" source="N5--jmAgKca2blahSVL8-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="804.1600000000001" y="680" as="sourcePoint" />
-            <mxPoint x="785.8299999999999" y="800" as="targetPoint" />
+            <mxPoint x="804.1600000000001" y="570" as="sourcePoint" />
+            <mxPoint x="785.8299999999999" y="690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="710" y="990" />
-              <mxPoint x="710" y="870" />
-              <mxPoint x="720" y="980" />
-              <mxPoint x="670" y="720" />
-              <mxPoint x="1075.83" y="710" />
-              <mxPoint x="755.8299999999999" y="720" />
-              <mxPoint x="835.8299999999999" y="770" />
-              <mxPoint x="1005.8299999999999" y="730" />
+              <mxPoint x="710" y="880" />
+              <mxPoint x="710" y="760" />
+              <mxPoint x="720" y="870" />
+              <mxPoint x="670" y="610" />
+              <mxPoint x="1075.83" y="600" />
+              <mxPoint x="755.8299999999999" y="610" />
+              <mxPoint x="835.8299999999999" y="660" />
+              <mxPoint x="1005.8299999999999" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-23" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;pedidos:&amp;nbsp;&lt;/b&gt;Proceso de realizar pedido" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1190" width="290" height="40" as="geometry" />
+          <mxGeometry x="420" y="1080" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-24" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="N5--jmAgKca2blahSVL8-23" target="N5--jmAgKca2blahSVL8-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="685.8299999999999" y="1329" as="targetPoint" />
+            <mxPoint x="685.8299999999999" y="1219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-25" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Seleccionar método de pago&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 3.4&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe permitir a los clientes seleccionar el método de pago que desee y que a su vez el restaurante acepte&quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="730" y="974.05" width="230" height="131.9" as="geometry" />
+          <mxGeometry x="730" y="730" width="230" height="131.9" as="geometry" />
         </mxCell>
-        <mxCell id="N5--jmAgKca2blahSVL8-26" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="N5--jmAgKca2blahSVL8-25" source="N5--jmAgKca2blahSVL8-3">
+        <mxCell id="N5--jmAgKca2blahSVL8-26" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.167;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="N5--jmAgKca2blahSVL8-25" source="N5--jmAgKca2blahSVL8-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="870.27" y="691.9000000000002" as="sourcePoint" />
-            <mxPoint x="1080.83" y="758.1" as="targetPoint" />
+            <mxPoint x="870.27" y="581.9000000000002" as="sourcePoint" />
+            <mxPoint x="795" y="751" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="900" y="710" />
-              <mxPoint x="1005" y="828.1" />
-              <mxPoint x="1015" y="938.1" />
-              <mxPoint x="965" y="678.1" />
-              <mxPoint x="1370.83" y="668.1" />
-              <mxPoint x="1050.83" y="678.1" />
-              <mxPoint x="1130.83" y="728.1" />
-              <mxPoint x="1300.83" y="688.1" />
+              <mxPoint x="900" y="600" />
+              <mxPoint x="1005" y="718.1" />
+              <mxPoint x="1015" y="828.1" />
+              <mxPoint x="965" y="568.1" />
+              <mxPoint x="1370.83" y="558.1" />
+              <mxPoint x="1050.83" y="568.1" />
+              <mxPoint x="1130.83" y="618.1" />
+              <mxPoint x="1300.83" y="578.1" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-27" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;pedidos:&amp;nbsp;&lt;/b&gt;Proceso de realizar pedido" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1125.9499999999998" width="290" height="40" as="geometry" />
+          <mxGeometry x="730" y="889.9999999999999" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N5--jmAgKca2blahSVL8-28" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="N5--jmAgKca2blahSVL8-27" target="N5--jmAgKca2blahSVL8-25">
+        <mxCell id="N5--jmAgKca2blahSVL8-28" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.397;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="N5--jmAgKca2blahSVL8-27" target="N5--jmAgKca2blahSVL8-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="980.8299999999999" y="1286.1499999999999" as="targetPoint" />
+            <mxPoint x="995.8299999999999" y="1062.1" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N5--jmAgKca2blahSVL8-29" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Notificaciones&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 3.5&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe notificar a los clientes todas las actualizaciones del proceso de su pedido&quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="890" y="768.1" width="230" height="121.9" as="geometry" />
+        <mxCell id="N5--jmAgKca2blahSVL8-29" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Notificaciones del proceso&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 3.5&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe notificar a los clientes todas las actualizaciones del proceso de su pedido&quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="790" y="590" width="230" height="121.9" as="geometry" />
         </mxCell>
         <mxCell id="N5--jmAgKca2blahSVL8-30" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="N5--jmAgKca2blahSVL8-29" source="N5--jmAgKca2blahSVL8-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="660" as="sourcePoint" />
-            <mxPoint x="1235.83" y="708.1" as="targetPoint" />
+            <mxPoint x="730" y="550" as="sourcePoint" />
+            <mxPoint x="1235.83" y="598.1" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="830" y="670" />
-              <mxPoint x="1055" y="660" />
-              <mxPoint x="1160" y="778.1" />
-              <mxPoint x="1170" y="888.1" />
-              <mxPoint x="1120" y="628.1" />
-              <mxPoint x="1525.83" y="618.1" />
-              <mxPoint x="1205.83" y="628.1" />
-              <mxPoint x="1285.83" y="678.1" />
-              <mxPoint x="1455.83" y="638.1" />
+              <mxPoint x="820" y="570" />
+              <mxPoint x="830" y="560" />
+              <mxPoint x="1055" y="550" />
+              <mxPoint x="1160" y="668.1" />
+              <mxPoint x="1170" y="778.1" />
+              <mxPoint x="1120" y="518.1" />
+              <mxPoint x="1525.83" y="508.1" />
+              <mxPoint x="1205.83" y="518.1" />
+              <mxPoint x="1285.83" y="568.1" />
+              <mxPoint x="1455.83" y="528.1" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="N5--jmAgKca2blahSVL8-31" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;pedidos:&amp;nbsp;&lt;/b&gt;Proceso de realizar pedido" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="860" y="909.9999999999999" width="290" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="N5--jmAgKca2blahSVL8-32" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="N5--jmAgKca2blahSVL8-31" target="N5--jmAgKca2blahSVL8-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1135.83" y="1236.1499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
