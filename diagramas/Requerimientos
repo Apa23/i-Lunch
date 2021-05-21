@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T00:27:37.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="gLHCez1OnEpd8yP7rZTx" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T00:33:51.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ZD3vXxBD3Qzm3oK3GGho" version="14.6.13" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="2100" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="MgtnAiPwgGYpOKckHuma-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 7px ; text-align: left&quot;&gt;&lt;b&gt;req&lt;/b&gt;&amp;nbsp;i-Lunch_Requerimientos&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=171;strokeWidth=2;align=center;" parent="1" vertex="1">
-          <mxGeometry x="40" y="120" width="1680" height="1040" as="geometry" />
+          <mxGeometry x="40" y="120" width="1280" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="MgtnAiPwgGYpOKckHuma-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Registro de restaurantes&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 1.2&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe permitir a los administradores de restaurante suministrar los datos su restaurante en un formulario para trabajar con&amp;nbsp; i-Lunch &quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="360" y="260" width="200" height="140" as="geometry" />
