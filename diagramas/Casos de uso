@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T20:51:31.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="78ItghX-BppHu-FylLW2" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T23:28:45.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55" etag="78ea-MYHfM6hC4BRFPIa" version="14.9.3" type="github">
   <diagram id="1xsWs5C1Qi4gCplDLGIl" name="Page-1">
-    <mxGraphModel dx="1483" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="r5rehumyS8rX1PXewX2W-2" value="Registro de productos" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="1026" y="110" width="530" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="r5rehumyS8rX1PXewX2W-3" value="Administrador&lt;br&gt;Restaurante" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="r5rehumyS8rX1PXewX2W-3" value="Administrador" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="946" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r5rehumyS8rX1PXewX2W-4" value="Registrar Producto" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
@@ -86,7 +86,7 @@
         <mxCell id="-RLH_IuoiYfBiZFLVVhZ-2" value="Proceso de domicilios" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="1851" y="540" width="530" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="-RLH_IuoiYfBiZFLVVhZ-3" value="Encargado&lt;br&gt;Pedidos" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="-RLH_IuoiYfBiZFLVVhZ-3" value="Administrador" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="1771" y="660" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-RLH_IuoiYfBiZFLVVhZ-4" value="Despachar Domicilio&amp;nbsp;" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
@@ -223,7 +223,7 @@
         <mxCell id="-RLH_IuoiYfBiZFLVVhZ-62" value="Registro de restaurante en la aplicación" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="140" y="475" width="584" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="-RLH_IuoiYfBiZFLVVhZ-63" value="Administrador&lt;br&gt;Restaurante" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="-RLH_IuoiYfBiZFLVVhZ-63" value="Administrador" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="60" y="665" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-RLH_IuoiYfBiZFLVVhZ-64" value="Registrar&lt;br&gt;Restaurante" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
@@ -404,7 +404,7 @@
         <mxCell id="pjJrgI3MQ-hdJMZlSKrB-4" value="Registro como empleado en la aplicación" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="194" y="940" width="530" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="pjJrgI3MQ-hdJMZlSKrB-5" value="Empleado&lt;br&gt;Potencial" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="pjJrgI3MQ-hdJMZlSKrB-5" value="Aspirante" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="114" y="1080" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pjJrgI3MQ-hdJMZlSKrB-6" value="Llenar Formulario De Red De Trabajo" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
@@ -472,7 +472,7 @@
         <mxCell id="pjJrgI3MQ-hdJMZlSKrB-22" value="Proceso de pedidos anticipados" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="1851" y="910" width="530" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="pjJrgI3MQ-hdJMZlSKrB-23" value="Encargado&lt;br&gt;Pedidos" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="pjJrgI3MQ-hdJMZlSKrB-23" value="Administrador" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="1771" y="1030" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pjJrgI3MQ-hdJMZlSKrB-24" value="Despachar&lt;br&gt;Pedido" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
@@ -654,7 +654,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pjJrgI3MQ-hdJMZlSKrB-75" value="Administrador&lt;br&gt;Restaurante" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="pjJrgI3MQ-hdJMZlSKrB-75" value="Administrador" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="44" y="127.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pjJrgI3MQ-hdJMZlSKrB-76" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pjJrgI3MQ-hdJMZlSKrB-75" target="-RLH_IuoiYfBiZFLVVhZ-46" edge="1">
@@ -663,7 +663,7 @@
             <mxPoint x="428" y="75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pjJrgI3MQ-hdJMZlSKrB-77" value="Empleado&lt;br&gt;Potencial" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="pjJrgI3MQ-hdJMZlSKrB-77" value="Aspirante" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="44" y="347.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pjJrgI3MQ-hdJMZlSKrB-78" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pjJrgI3MQ-hdJMZlSKrB-77" target="-RLH_IuoiYfBiZFLVVhZ-46" edge="1">
