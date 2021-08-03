@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T04:04:21.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="vaCV7_gWBa9cEjMfCySy" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T04:07:14.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="GNXCCAL10FzYCDsQTVkA" version="14.9.3" type="github">
   <diagram id="M12qITSkw9JV9opQ0eIB" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YFrUsNVZUO-yMZGz8kpX-1" value="stm iLunch_Estados_Pedido" style="shape=umlFrame;whiteSpace=wrap;html=1;width=160;height=30;" vertex="1" parent="1">
-          <mxGeometry x="50" y="50" width="440" height="370" as="geometry" />
+          <mxGeometry x="50" y="50" width="440" height="510" as="geometry" />
         </mxCell>
         <mxCell id="YFrUsNVZUO-yMZGz8kpX-7" value="Disponible" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="150" y="140" width="120" height="20" as="geometry" />
@@ -25,11 +25,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YFrUsNVZUO-yMZGz8kpX-12" value="When(Cliente selecciona forma de pago)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="YFrUsNVZUO-yMZGz8kpX-11">
+        <mxCell id="YFrUsNVZUO-yMZGz8kpX-12" value="When(Cliente selecciona tipo de pedido)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="YFrUsNVZUO-yMZGz8kpX-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YFrUsNVZUO-yMZGz8kpX-13" value="Reservado" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="YFrUsNVZUO-yMZGz8kpX-13" value="Seleccionado" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="90" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YFrUsNVZUO-yMZGz8kpX-14" value="" style="endArrow=classic;html=1;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YFrUsNVZUO-yMZGz8kpX-13" target="YFrUsNVZUO-yMZGz8kpX-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="180" as="sourcePoint" />
+            <mxPoint x="470" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YFrUsNVZUO-yMZGz8kpX-15" value="When(Ciente seleccciona forma de pago)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="YFrUsNVZUO-yMZGz8kpX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YFrUsNVZUO-yMZGz8kpX-16" value="Reservado" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
