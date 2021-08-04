@@ -20,4 +20,5 @@ A su vez, i-Lunch cuenta con una red de trabajo en el que los profesionales dent
 - Luis Rafael Diaz Anaya - [lrdiaza@unal.edu.co](mailto:lrdiaza@unal.edu.co)
 - Hernan Camilo Rivera Arteaga  - [hriveraa@unal.edu.co](mailto:hriveraa@unal.edu.co)
 
+## Contacto
 Puedes contactarnos por medio del email: [contacto.ilunch@gmail.com](mailto:contacto.ilunch@gmail.com) o por medio de nuestra página de Instagram: [@ilunch.app](https://www.instagram.com/ilunch.app/)
