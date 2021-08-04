@@ -24,5 +24,8 @@ A su vez, i-Lunch cuenta con una red de trabajo en el que los profesionales dent
 ## Contacto
 Puedes contactarnos por medio del email: [contacto.ilunch@gmail.com](mailto:contacto.ilunch@gmail.com) o por medio de nuestra página de Instagram: [@ilunch.app](https://www.instagram.com/ilunch.app/)
 
+## Pautas para contribuir
+Las pautas para contribuir dentro del proyecto se encuentran especificadas dentro del archivo [CONTRIBUTING.md](https://github.com/Apa23/i-Lunch/blob/main/CONTRIBUTING.md)
+
 ## Código de conducta
-Este repositorio utiliza el código de conducta [Contributor Covenant](https://www.contributor-covenant.org/), el cual se encuentra especidficado en el archivo [CODE_OF_CONDUCT.md](https://github.com/Apa23/i-Lunch/blob/main/CODE_OF_CONDUCT.md)
+Este repositorio utiliza el código de conducta [Contributor Covenant](https://www.contributor-covenant.org/), el cual se encuentra especidficado dentro del archivo [CODE_OF_CONDUCT.md](https://github.com/Apa23/i-Lunch/blob/main/CODE_OF_CONDUCT.md)
