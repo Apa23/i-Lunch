@@ -1,6 +1,7 @@
 # i-Lunch
 - **Materia:** Ingeniería de Software
 - **Profesor:** Fernan Alonso Villa Garzón
+- **Institución:** Universidad Nacional de Colombia sede Medellín
 - **Semestre:** 2021-1
 
 i-Lunch es una plataforma presentada como una solución alternativa a los problemas en el manejo y gestión de los menús ofertados por los restaurantes, enfocándose en especial en aquellos pequeños y medianos, a nivel local y nacional. i-Lunch busca darle a los emprendedores del sector gastronómico una oportunidad de darse a conocer y publicitar su comida en este entorno cada vez más competitivo, así como brindarle a los consumidores la posibilidad de tener más variedad de opciones para comer cerca de sus lugares de residencia, trabajo o estudio.
