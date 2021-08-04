@@ -3,7 +3,9 @@
 - **Profesor:** Fernan Alonso Villa Garzón
 - **Semestre:** 2021-1
 
-Aplicación de automatización de pedidos de menús ejecutivos
+i-Lunch es una plataforma presentada como una solución alternativa a los problemas en el manejo y gestión de los menús ofertados por los restaurantes, enfocándose en especial en aquellos pequeños y medianos, a nivel local y nacional. i-Lunch busca darle a los emprendedores del sector gastronómico una oportunidad de darse a conocer y publicitar su comida en este entorno cada vez más competitivo, así como brindarle a los consumidores la posibilidad de tener más variedad de opciones para comer cerca de sus lugares de residencia, trabajo o estudio.
+
+A su vez, i-Lunch cuenta con una red de trabajo en el que los profesionales dentro del sector gastronómico pueden buscar trabajo dentro de los restaurantes inscritos en la plataforma, al mismo tiempo que los restaurantes pueden interesarse en sus servicios y contratarlos de manera fácil y rápida.
 
 ## Equipo de trabajo
 - José David Cardona Soto - [jcardonaso@unal.edu.co](mailto:jcardonaso@unal.edu.co)
@@ -17,3 +19,5 @@ Aplicación de automatización de pedidos de menús ejecutivos
 - Andrés Bañol Casasbuenas - [abanolc@unal.edu.co](mailto:abanolc@unal.edu.co)
 - Luis Rafael Diaz Anaya - [lrdiaza@unal.edu.co](mailto:lrdiaza@unal.edu.co)
 - Hernan Camilo Rivera Arteaga  - [hriveraa@unal.edu.co](mailto:hriveraa@unal.edu.co)
+
+Puedes contactarnos por medio del email: [contacto.ilunch@gmail.com](mailto:contacto.ilunch@gmail.com) o por medio de nuestra página de Instagram: [@ilunch.app](https://www.instagram.com/ilunch.app/)
