@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T19:15:31.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62" etag="b4We9PiijTN_MsC1wirh" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T04:14:35.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62" etag="-anOpUb17IyFCmuC9637" version="14.9.4" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="1038" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4152" dy="2188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OW2MO-KRElPDxbvv8b8f-8" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt; &lt;b&gt;cuentas:&amp;nbsp;&lt;/b&gt;Registro de restaurante" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+        <mxCell id="OW2MO-KRElPDxbvv8b8f-8" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt; &lt;b&gt;cuentas:&amp;nbsp;&lt;/b&gt;Registrar Restaurante" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="1080" y="500" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OW2MO-KRElPDxbvv8b8f-9" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="OW2MO-KRElPDxbvv8b8f-8" target="OW2MO-KRElPDxbvv8b8f-3" edge="1">
@@ -48,7 +48,7 @@
             <mxPoint x="1480" y="459" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OW2MO-KRElPDxbvv8b8f-10" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt; &lt;b&gt;cuentas:&amp;nbsp;&lt;/b&gt;Registro de usuario" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+        <mxCell id="OW2MO-KRElPDxbvv8b8f-10" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt; &lt;b&gt;cuentas: &lt;/b&gt;Registrar Cuenta" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="850" y="450" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OW2MO-KRElPDxbvv8b8f-11" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="OW2MO-KRElPDxbvv8b8f-10" target="OW2MO-KRElPDxbvv8b8f-5" edge="1">
@@ -68,7 +68,7 @@
         <mxCell id="OW2MO-KRElPDxbvv8b8f-14" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;Registro de aspirantes&lt;/b&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 4.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe dar la posibilidad a los clientes de diligenciar el formulario de inscripción a la red de trabajo de&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;i-Lunch&quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="551" y="260" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="OW2MO-KRElPDxbvv8b8f-15" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;red_de_trabajo:&amp;nbsp;&lt;/b&gt;Registro como aspirante" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="OW2MO-KRElPDxbvv8b8f-15" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;red_de_trabajo:&amp;nbsp;&lt;/b&gt;Diligenciar Formulario" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="486" y="410" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OW2MO-KRElPDxbvv8b8f-16" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="OW2MO-KRElPDxbvv8b8f-15" target="OW2MO-KRElPDxbvv8b8f-14" edge="1">
@@ -155,7 +155,7 @@
             <mxPoint x="559.9499999999998" y="291.19000000000005" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OW2MO-KRElPDxbvv8b8f-37" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;red_de_trabajo:&amp;nbsp;&lt;/b&gt;Actualización de información" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="OW2MO-KRElPDxbvv8b8f-37" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;red_de_trabajo:&amp;nbsp;&lt;/b&gt;Actualizar Perfil" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="100" y="410" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OW2MO-KRElPDxbvv8b8f-38" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Editar el pedido&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R 5.2&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Se debe permitir a los clientes editar su pedido, ya sea eliminando elementos que pertenecen a el o ya sea editando aspectos de estos elementos como las epecificaciones y las cantidades&quot;&lt;br&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
@@ -419,19 +419,19 @@
         <mxCell id="OW2MO-KRElPDxbvv8b8f-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="OW2MO-KRElPDxbvv8b8f-107" target="OW2MO-KRElPDxbvv8b8f-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OW2MO-KRElPDxbvv8b8f-107" value="RefinedBy&lt;br&gt;&lt;b&gt;Al momento de hacer el diagrama falta este caso de uso&lt;/b&gt;" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="460" y="1965" width="340" height="40" as="geometry" />
+        <mxCell id="OW2MO-KRElPDxbvv8b8f-107" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;red_de_trabajo:&amp;nbsp;&lt;/b&gt;Consultar Aspirantes Registrados" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1965" width="360" height="45" as="geometry" />
         </mxCell>
         <mxCell id="OW2MO-KRElPDxbvv8b8f-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="OW2MO-KRElPDxbvv8b8f-109" target="OW2MO-KRElPDxbvv8b8f-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OW2MO-KRElPDxbvv8b8f-109" value="RefinedBy&lt;br&gt;&lt;b&gt;Al momento de hacer el diagrama falta este caso de uso&lt;/b&gt;" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="875" y="1965" width="340" height="40" as="geometry" />
+        <mxCell id="OW2MO-KRElPDxbvv8b8f-109" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;red_de_trabajo:&amp;nbsp;&lt;/b&gt;Consultar Aspirantes Registrados" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="860" y="1965" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OW2MO-KRElPDxbvv8b8f-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" parent="1" source="OW2MO-KRElPDxbvv8b8f-111" target="OW2MO-KRElPDxbvv8b8f-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OW2MO-KRElPDxbvv8b8f-111" value="RefinedBy&lt;br&gt;&lt;b&gt;Al momento de hacer el diagrama falta este caso de uso&lt;/b&gt;" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="OW2MO-KRElPDxbvv8b8f-111" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;red_de_trabajo:&amp;nbsp;&lt;/b&gt;Consultar Ofertas Publicadas" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1275" y="1965" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OW2MO-KRElPDxbvv8b8f-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="OW2MO-KRElPDxbvv8b8f-86" target="OW2MO-KRElPDxbvv8b8f-86" edge="1">
@@ -471,19 +471,19 @@
         <mxCell id="OW2MO-KRElPDxbvv8b8f-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="OW2MO-KRElPDxbvv8b8f-121" target="OW2MO-KRElPDxbvv8b8f-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OW2MO-KRElPDxbvv8b8f-121" value="RefinedBy&lt;br&gt;&lt;b&gt;Al momento de hacer el diagrama falta este caso de uso&lt;/b&gt;" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="OW2MO-KRElPDxbvv8b8f-121" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;red_de_trabajo:&amp;nbsp;&lt;/b&gt;Publicar Ofertas" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="461.25" y="2451" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OW2MO-KRElPDxbvv8b8f-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="OW2MO-KRElPDxbvv8b8f-123" target="OW2MO-KRElPDxbvv8b8f-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OW2MO-KRElPDxbvv8b8f-123" value="RefinedBy&lt;br&gt;&lt;b&gt;Al momento de hacer el diagrama falta este caso de uso&lt;/b&gt;" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="OW2MO-KRElPDxbvv8b8f-123" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;red_de_trabajo:&amp;nbsp;&lt;/b&gt;Consultar Ofertas Publicadas" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="876.25" y="2451" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OW2MO-KRElPDxbvv8b8f-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" parent="1" source="OW2MO-KRElPDxbvv8b8f-125" target="OW2MO-KRElPDxbvv8b8f-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OW2MO-KRElPDxbvv8b8f-125" value="RefinedBy&lt;br&gt;&lt;b&gt;Al momento de hacer el diagrama falta este caso de uso&lt;/b&gt;" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="OW2MO-KRElPDxbvv8b8f-125" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;red_de_trabajo:&amp;nbsp;&lt;/b&gt;Publicar Ofertas" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1288.75" y="2451" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OW2MO-KRElPDxbvv8b8f-126" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Notificaciones de aplicaciones&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left&quot;&gt;Id=&quot;R 10.5&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left&quot;&gt;text=&quot;Se debe notificar a los administradores de restaurante siempre que un aspirante haga una aplicación a una de sus ofertas de trabajo&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
@@ -519,7 +519,7 @@
             <mxPoint x="1383" y="2181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OW2MO-KRElPDxbvv8b8f-133" value="RefinedBy&lt;br&gt;&lt;b&gt;Al momento de hacer el diagrama falta este caso de uso&lt;/b&gt;" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="OW2MO-KRElPDxbvv8b8f-133" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;red_de_trabajo:&amp;nbsp;&lt;/b&gt;Consultar Ofertas Publicadas" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1220" y="2211" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OW2MO-KRElPDxbvv8b8f-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;entryX=0.511;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OW2MO-KRElPDxbvv8b8f-135" target="OW2MO-KRElPDxbvv8b8f-98" edge="1">
@@ -527,7 +527,7 @@
             <mxPoint x="2165.083333333334" y="2196" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OW2MO-KRElPDxbvv8b8f-135" value="RefinedBy&lt;br&gt;&lt;b&gt;Al momento de hacer el diagrama falta este caso de uso&lt;/b&gt;" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="OW2MO-KRElPDxbvv8b8f-135" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt;&amp;nbsp;&lt;b&gt;red_de_trabajo:&amp;nbsp;&lt;/b&gt;Cambiar A Modo Cliente" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1995" y="2216" width="340" height="40" as="geometry" />
         </mxCell>
       </root>
