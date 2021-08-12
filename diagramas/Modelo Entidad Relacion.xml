@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T14:45:20.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="cYzjtGGMZ4QkB1rBBSMn" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T14:45:35.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="gUyxhwf9C6q3gRBkJYec" version="14.9.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1185" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="hpIe6UJHj_VVzWnFTiqa-17" value="CLIENTE" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="20" y="320" width="160" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="hpIe6UJHj_VVzWnFTiqa-18" value="# e-mail&#xa;*Nombre&#xa;*Apellido&#xa;*Contraseña&#xa;*Celular&#xa;*Ubicacion&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="hpIe6UJHj_VVzWnFTiqa-17" vertex="1">
+        <mxCell id="hpIe6UJHj_VVzWnFTiqa-18" value="#Celular&#xa;*Nombre&#xa;*Apellido&#xa;*Contraseña&#xa;*e-mail&#xa;*Ubicacion&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="hpIe6UJHj_VVzWnFTiqa-17" vertex="1">
           <mxGeometry y="30" width="160" height="220" as="geometry" />
         </mxCell>
         <mxCell id="hpIe6UJHj_VVzWnFTiqa-19" value="ASPIRANTE" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
