@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T14:43:58.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.115 Safari/537.36" etag="nBsL6dr2Tyle-xy_M_jy" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T14:28:00.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="SCmvrotqPrIK_00c9mPD" version="14.9.6" type="github">
   <diagram id="uHQbvLGke_DWCvCAA1Y4" name="Page-1">
-    <mxGraphModel dx="2480" dy="2420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -500,7 +500,7 @@
             <mxPoint x="1424.5000000000005" y="393" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dD-GZ8KpuvJm9Gj7sbxf-110" value="Proceso de registro de un nuevo cliente en la plataforma" style="swimlane;html=1;startSize=60;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="dD-GZ8KpuvJm9Gj7sbxf-110" value="Proceso de registro de un nuevo restaurante en la plataforma" style="swimlane;html=1;startSize=60;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="90" y="850" width="60" height="590" as="geometry" />
         </mxCell>
         <mxCell id="dD-GZ8KpuvJm9Gj7sbxf-111" value="Restaurante" style="swimlane;html=1;startSize=60;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
