@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-13T22:15:39.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="HHgISy4_z5w8AxIcn3Q8" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-13T22:20:10.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="SgatqjPzfnSqYHUK1BOz" version="14.9.6" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="1108" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,7 +137,7 @@
           <mxGeometry x="340" y="225" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kzkir1EpNlqnOLRJbXTY-54" value="Aspirante" style="shape=folder;fontStyle=1;tabWidth=160;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="1680" y="320" width="530" height="230" as="geometry" />
+          <mxGeometry x="1680" y="320" width="510" height="330" as="geometry" />
         </mxCell>
         <mxCell id="kzkir1EpNlqnOLRJbXTY-55" value="Ofertas recibidas" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" parent="kzkir1EpNlqnOLRJbXTY-54" vertex="1">
           <mxGeometry x="180" y="40" width="150" height="80" as="geometry" />
@@ -145,11 +145,20 @@
         <mxCell id="kzkir1EpNlqnOLRJbXTY-59" value="Ofertas disponibles" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" parent="kzkir1EpNlqnOLRJbXTY-54" vertex="1">
           <mxGeometry x="20" y="40" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w-W0K6EiLWoWphcjqqjB-7" value="Ofertas recibidas" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="kzkir1EpNlqnOLRJbXTY-54">
+        <mxCell id="w-W0K6EiLWoWphcjqqjB-7" value="Perfil aspirante" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="kzkir1EpNlqnOLRJbXTY-54">
           <mxGeometry x="340" y="40" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w-W0K6EiLWoWphcjqqjB-8" value="Ofertas disponibles" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="kzkir1EpNlqnOLRJbXTY-54">
+        <mxCell id="w-W0K6EiLWoWphcjqqjB-8" value="Editar perfil&amp;nbsp;&lt;br&gt;aspirante" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="kzkir1EpNlqnOLRJbXTY-54">
           <mxGeometry x="20" y="130" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w-W0K6EiLWoWphcjqqjB-10" value="Usar modo cliente" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="kzkir1EpNlqnOLRJbXTY-54">
+          <mxGeometry x="340" y="130" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w-W0K6EiLWoWphcjqqjB-11" value="Cerrar sesión" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="kzkir1EpNlqnOLRJbXTY-54">
+          <mxGeometry x="20" y="225" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kzkir1EpNlqnOLRJbXTY-67" value="&lt;b&gt;pkr Aspirante&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=205;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="kzkir1EpNlqnOLRJbXTY-54" vertex="1">
+          <mxGeometry x="-10" y="-50" width="540" height="400" as="geometry" />
         </mxCell>
         <mxCell id="kzkir1EpNlqnOLRJbXTY-61" value="&lt;b&gt;pkr Usuario&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="721" y="910" width="1040" height="700" as="geometry" />
@@ -163,9 +172,6 @@
         <mxCell id="kzkir1EpNlqnOLRJbXTY-66" value="Editar perfil" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" parent="kzkir1EpNlqnOLRJbXTY-64" vertex="1">
           <mxGeometry x="20" y="40" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kzkir1EpNlqnOLRJbXTY-67" value="&lt;b&gt;pkr Aspirante&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=205;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="1" vertex="1">
-          <mxGeometry x="1654" y="-80" width="400" height="300" as="geometry" />
-        </mxCell>
         <mxCell id="V89XKZ3YamId0xQPgl_T-1" value="Historial de pedidos" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="715" y="540" width="150" height="80" as="geometry" />
         </mxCell>
@@ -177,6 +183,9 @@
         </mxCell>
         <mxCell id="kzkir1EpNlqnOLRJbXTY-60" value="&lt;b&gt;pkr Cliente&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="520" y="270" width="550" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="w-W0K6EiLWoWphcjqqjB-9" value="Configuración" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="450" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
