@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-13T15:33:06.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="1RMPbhwCeO3PQ4w6dYo1" version="14.9.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-08-13T15:48:42.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="llpY9tr8M-vpnZJiD8mJ" version="14.9.6" type="github" pages="8">
   <diagram id="M12qITSkw9JV9opQ0eIB" name="Pedido">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i-5FhajPRqHoBti0fl20-2" value="No creado" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="suo5H6lXaZIzlz09LHR--1" vertex="1">
-          <mxGeometry x="-280" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="-290" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
