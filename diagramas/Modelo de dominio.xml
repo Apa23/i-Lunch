@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-14T01:16:48.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="secHtSL0qZXHZB7BwN5G" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-14T01:17:24.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="wAKdpd6t07WNyOAfjjWl" version="14.9.6" type="github">
   <diagram id="jXVWNiLIbObn5wP4IVcK" name="Page-1">
-    <mxGraphModel dx="1848" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2067" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,12 +281,12 @@
         </mxCell>
         <mxCell id="fT5CZjrpVPjGvYcwgHl2-8" value="0..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="fT5CZjrpVPjGvYcwgHl2-7">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="165" y="-10" as="offset" />
+            <mxPoint x="185" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fT5CZjrpVPjGvYcwgHl2-9" value="0..n" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="fT5CZjrpVPjGvYcwgHl2-7">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-360" y="-97" as="offset" />
+            <mxPoint x="-368" y="-107" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fT5CZjrpVPjGvYcwgHl2-11" value="Empleado" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
