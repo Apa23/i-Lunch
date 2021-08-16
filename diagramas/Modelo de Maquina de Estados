@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T14:25:33.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="PzJI5vPsxXihx_Jy-reQ" version="14.9.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-08-16T14:26:31.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="UVflbTj3eKNtg-9_vCq3" version="14.9.6" type="github" pages="6">
   <diagram id="M12qITSkw9JV9opQ0eIB" name="Pedido">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -343,13 +343,13 @@
             <mxPoint x="-190.5" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mD9TRNoCVclit8Cdot9g-4" value="When(Administrador lo relaciona con un platillo)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mD9TRNoCVclit8Cdot9g-3">
+        <mxCell id="mD9TRNoCVclit8Cdot9g-4" value="When(Aspirante completa información del perfil)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mD9TRNoCVclit8Cdot9g-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGwASYsxrQo2ceaq85Ne-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WAsIX35QJCs9bWDhLXVc-1" source="mD9TRNoCVclit8Cdot9g-5" target="mD9TRNoCVclit8Cdot9g-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mD9TRNoCVclit8Cdot9g-5" value="Asignado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WAsIX35QJCs9bWDhLXVc-1">
+        <mxCell id="mD9TRNoCVclit8Cdot9g-5" value="Publicada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WAsIX35QJCs9bWDhLXVc-1">
           <mxGeometry x="-250" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mD9TRNoCVclit8Cdot9g-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;" vertex="1" parent="WAsIX35QJCs9bWDhLXVc-1">
