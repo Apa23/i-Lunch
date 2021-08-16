@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T13:58:35.424Z" agent="5.0 (X11)" etag="5u3IxkgJHDyhOaLwHtIg" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-16T14:00:49.221Z" agent="5.0 (X11)" etag="sT0g0nr1rWGoGOjju8gq" version="14.9.6" type="github">
   <diagram id="Vv4n0xqky498aHg4NoYz" name="Page-1">
-    <mxGraphModel dx="1831" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DyJMpFA-wsIGo0rY06-f-42" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;bdd&lt;/b&gt; Manejo de Restaurante&lt;br&gt;&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;labelX=218;align=left;spacingLeft=10;overflow=fill;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="490" width="930" height="490" as="geometry" />
+          <mxGeometry x="-500" y="490" width="930" height="490" as="geometry" />
         </mxCell>
         <mxCell id="DyJMpFA-wsIGo0rY06-f-43" value="Restaurante" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=rect;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="DyJMpFA-wsIGo0rY06-f-42" vertex="1">
           <mxGeometry x="390" y="60" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sxvF8iEiKfIY6s9_QtoY-19" value="Producto" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=rect;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="DyJMpFA-wsIGo0rY06-f-42">
-          <mxGeometry x="800" y="60" width="100" height="50" as="geometry" />
+          <mxGeometry x="40" y="350" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sxvF8iEiKfIY6s9_QtoY-22" value="association1" style="verticalAlign=bottom;html=1;endArrow=none;edgeStyle=orthogonalEdgeStyle;startFill=0;startSize=12;startArrow=diamondThin;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DyJMpFA-wsIGo0rY06-f-42" source="DyJMpFA-wsIGo0rY06-f-43" target="sxvF8iEiKfIY6s9_QtoY-19">
+        <mxCell id="sxvF8iEiKfIY6s9_QtoY-22" value="association1" style="verticalAlign=bottom;html=1;endArrow=none;edgeStyle=orthogonalEdgeStyle;startFill=0;startSize=12;startArrow=diamondThin;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DyJMpFA-wsIGo0rY06-f-42" source="sxvF8iEiKfIY6s9_QtoY-55" target="sxvF8iEiKfIY6s9_QtoY-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="40" as="sourcePoint" />
             <mxPoint x="540" y="40" as="targetPoint" />
@@ -23,13 +23,19 @@
           <mxGeometry x="-0.9" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sxvF8iEiKfIY6s9_QtoY-24" value="Pertenece" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="sxvF8iEiKfIY6s9_QtoY-22">
-          <mxGeometry x="-0.9" relative="1" as="geometry" />
+          <mxGeometry x="-0.9" relative="1" as="geometry">
+            <mxPoint x="-50" y="14" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sxvF8iEiKfIY6s9_QtoY-25" value="{ordered} 0..*" style="resizable=0;html=1;align=right;verticalAlign=top;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="sxvF8iEiKfIY6s9_QtoY-22">
-          <mxGeometry x="0.9" relative="1" as="geometry" />
+          <mxGeometry x="0.9" relative="1" as="geometry">
+            <mxPoint x="60" y="-14" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sxvF8iEiKfIY6s9_QtoY-26" value="Contiene" style="resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="sxvF8iEiKfIY6s9_QtoY-22">
-          <mxGeometry x="0.9" relative="1" as="geometry" />
+          <mxGeometry x="0.9" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sxvF8iEiKfIY6s9_QtoY-27" value="Empleado" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=rect;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="DyJMpFA-wsIGo0rY06-f-42">
           <mxGeometry x="390" y="290" width="100" height="50" as="geometry" />
