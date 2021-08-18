@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T14:45:45.646Z" agent="5.0 (X11)" etag="6LoKddCtXHS9dI2Iw-vs" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-18T01:22:06.236Z" agent="5.0 (X11)" etag="7pJ4kC7_uUOTfcqt_KRo" version="14.9.6" type="github">
   <diagram id="Vv4n0xqky498aHg4NoYz" name="Page-1">
-    <mxGraphModel dx="2881" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="1902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,7 +103,7 @@
             <mxPoint x="-10" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sxvF8iEiKfIY6s9_QtoY-52" value="property2" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="sxvF8iEiKfIY6s9_QtoY-50">
+        <mxCell id="sxvF8iEiKfIY6s9_QtoY-52" value="Crear" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="sxvF8iEiKfIY6s9_QtoY-50">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="-50" as="offset" />
           </mxGeometry>
@@ -113,7 +113,7 @@
             <mxPoint x="49" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sxvF8iEiKfIY6s9_QtoY-54" value="property1" style="resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="sxvF8iEiKfIY6s9_QtoY-50">
+        <mxCell id="sxvF8iEiKfIY6s9_QtoY-54" value="Creada" style="resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="sxvF8iEiKfIY6s9_QtoY-50">
           <mxGeometry x="0.9" relative="1" as="geometry">
             <mxPoint x="39" as="offset" />
           </mxGeometry>
@@ -136,7 +136,7 @@
             <mxPoint x="-10" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sxvF8iEiKfIY6s9_QtoY-58" value="property2" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="sxvF8iEiKfIY6s9_QtoY-56">
+        <mxCell id="sxvF8iEiKfIY6s9_QtoY-58" value="Crear" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="sxvF8iEiKfIY6s9_QtoY-56">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="-50" as="offset" />
           </mxGeometry>
@@ -146,7 +146,7 @@
             <mxPoint x="42" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sxvF8iEiKfIY6s9_QtoY-60" value="property1" style="resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="sxvF8iEiKfIY6s9_QtoY-56">
+        <mxCell id="sxvF8iEiKfIY6s9_QtoY-60" value="&lt;div&gt;Ofrecido&lt;/div&gt;" style="resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="sxvF8iEiKfIY6s9_QtoY-56">
           <mxGeometry x="0.9" relative="1" as="geometry">
             <mxPoint x="32" as="offset" />
           </mxGeometry>
