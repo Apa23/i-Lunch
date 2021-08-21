@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-21T21:35:28.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="GSryg_CykgNXiBGw9W5A" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-21T21:43:07.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="I8goa_ecTpp7WCmujmWw" version="14.9.7" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1583" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
           <mxGeometry x="520" y="1160" width="560" height="220" as="geometry" />
         </mxCell>
         <mxCell id="yWHiENIcZRRKq0i6Nekb-35" value="Red de trabajo" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="1004" width="345" height="135" as="geometry" />
+          <mxGeometry x="1135" y="1205" width="345" height="145" as="geometry" />
         </mxCell>
         <mxCell id="yWHiENIcZRRKq0i6Nekb-36" value="Crear oferta de&amp;nbsp;&lt;br&gt;empleo" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="yWHiENIcZRRKq0i6Nekb-35">
           <mxGeometry x="20" y="40" width="150" height="80" as="geometry" />
@@ -140,10 +140,10 @@
           <mxGeometry x="180" y="40" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yWHiENIcZRRKq0i6Nekb-41" value="&lt;b&gt;pkr Contenido_red_de_trabajo_restaurante&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=260;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="959" width="390" height="210" as="geometry" />
+          <mxGeometry x="1120" y="1160" width="400" height="220" as="geometry" />
         </mxCell>
         <mxCell id="yWHiENIcZRRKq0i6Nekb-42" value="Gestión del restaurante" style="shape=folder;fontStyle=1;tabWidth=145;tabHeight=35;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="1137.5" y="645" width="525" height="255" as="geometry" />
+          <mxGeometry x="1137.5" y="645" width="525" height="225" as="geometry" />
         </mxCell>
         <mxCell id="yWHiENIcZRRKq0i6Nekb-43" value="Editar información y&lt;br&gt;plan" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="yWHiENIcZRRKq0i6Nekb-42">
           <mxGeometry x="20" y="40" width="150" height="80" as="geometry" />
@@ -158,10 +158,10 @@
           <mxGeometry x="20" y="135" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yWHiENIcZRRKq0i6Nekb-48" value="&lt;b&gt;pkr Contenido_gestión_del_restaurante&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=240;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="600" width="560" height="330" as="geometry" />
+          <mxGeometry x="1120" y="600" width="560" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="yWHiENIcZRRKq0i6Nekb-49" value="Planes de restaurante" style="shape=folder;fontStyle=1;tabWidth=125;tabHeight=28;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="1698.25" width="350" height="137.5" as="geometry" />
+        <mxCell id="yWHiENIcZRRKq0i6Nekb-49" value="Planes de restaurante" style="shape=folder;fontStyle=1;tabWidth=130;tabHeight=33;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="966.87" width="350" height="153.13" as="geometry" />
         </mxCell>
         <mxCell id="yWHiENIcZRRKq0i6Nekb-50" value="Plan premium" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="yWHiENIcZRRKq0i6Nekb-49">
           <mxGeometry x="20" y="40" width="150" height="80" as="geometry" />
@@ -169,8 +169,23 @@
         <mxCell id="yWHiENIcZRRKq0i6Nekb-51" value="Plan estandar" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="yWHiENIcZRRKq0i6Nekb-49">
           <mxGeometry x="180" y="40" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yWHiENIcZRRKq0i6Nekb-52" value="&lt;b&gt;pkr Planes_restaurantes&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=260;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="1652" width="400" height="203.75" as="geometry" />
+        <mxCell id="yWHiENIcZRRKq0i6Nekb-52" value="&lt;b&gt;pkr Planes_restaurantes&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=260;height=34;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="920" width="400" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="yWHiENIcZRRKq0i6Nekb-54" value="Perfil profesional" style="shape=folder;fontStyle=1;tabWidth=145;tabHeight=35;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="1737.5" y="565" width="525" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="yWHiENIcZRRKq0i6Nekb-55" value="Editar perfil" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="yWHiENIcZRRKq0i6Nekb-54">
+          <mxGeometry x="20" y="40" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yWHiENIcZRRKq0i6Nekb-56" value="Configuración" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="yWHiENIcZRRKq0i6Nekb-54">
+          <mxGeometry x="180" y="40" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yWHiENIcZRRKq0i6Nekb-57" value="Usar i-Lunch en&lt;br&gt;cliente" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="yWHiENIcZRRKq0i6Nekb-54">
+          <mxGeometry x="340" y="40" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yWHiENIcZRRKq0i6Nekb-59" value="&lt;b&gt;pkr Contenido_ofertas_disponibles_aspirante&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=273;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="520" width="560" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
