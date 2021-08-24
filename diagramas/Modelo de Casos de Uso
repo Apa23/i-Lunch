@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-14T19:13:35.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="KKUadOdodrj4LpW8_Mpk" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T14:26:37.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="FFB3o7bliRZtcBnBoIUz" version="14.9.8" type="github">
   <diagram id="1xsWs5C1Qi4gCplDLGIl" name="Page-1">
-    <mxGraphModel dx="-258" dy="1488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-14" dy="1625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,7 +205,7 @@
         <mxCell id="epIXWnxTeOUilMLV-6y4-40" value="Cliente" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="1555" y="-307.25" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Ovdh9Z-hhBzN2Mhjf_m-8" value="Registrar&lt;br&gt;Productos" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+        <mxCell id="2Ovdh9Z-hhBzN2Mhjf_m-8" value="Registrar&lt;br&gt;Menú" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="1060.0000000000002" y="-459" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2Ovdh9Z-hhBzN2Mhjf_m-9" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-RLH_IuoiYfBiZFLVVhZ-64" target="2Ovdh9Z-hhBzN2Mhjf_m-8" edge="1">
