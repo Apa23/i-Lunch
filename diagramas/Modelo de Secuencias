@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T13:30:38.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="QBcrdZZVpeUImzXb8nD6" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-25T13:32:21.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="_PIcf-aZUcIy1XXZKpNa" version="14.9.9" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2926" dy="2258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,18 +196,6 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1195" y="634" as="sourcePoint" />
             <mxPoint x="1500" y="634" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Js_gDo-z3o8k7g6hI1OW-49" value="15: Notificar Pedido&lt;br&gt;&amp;nbsp;Entregado" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1508" y="1831" as="sourcePoint" />
-            <mxPoint x="1355" y="1831" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Js_gDo-z3o8k7g6hI1OW-52" value="14.1:Valorar Servicio" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="855" y="1766" as="sourcePoint" />
-            <mxPoint x="1505" y="1766" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s8oWmyipN99tTSkTSTkw-1" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
@@ -623,7 +611,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2gvUbjZp-77DNCsw5NPX-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="540" width="10" height="1120" as="geometry" />
+          <mxGeometry x="1185" y="540" width="10" height="1310" as="geometry" />
         </mxCell>
         <mxCell id="Js_gDo-z3o8k7g6hI1OW-17" value="8.1:Proveer Preferencias de Entrega" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -656,12 +644,6 @@
             <mxPoint x="1505" y="863" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Js_gDo-z3o8k7g6hI1OW-47" value="14: Entregar Pedido" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1" source="Js_gDo-z3o8k7g6hI1OW-46">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1385" y="1710" as="sourcePoint" />
-            <mxPoint x="855" y="1710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Js_gDo-z3o8k7g6hI1OW-34" value="12.2: Datos Validos" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1345" y="1397" as="sourcePoint" />
@@ -682,7 +664,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2gvUbjZp-77DNCsw5NPX-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="1345" y="830" width="10" height="1030" as="geometry" />
+          <mxGeometry x="1345" y="830" width="10" height="840" as="geometry" />
         </mxCell>
         <mxCell id="2gvUbjZp-77DNCsw5NPX-37" value="12:Ingresar Datos de Cupon" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -753,6 +735,24 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1505" y="894.29" as="sourcePoint" />
             <mxPoint x="1635" y="894.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Js_gDo-z3o8k7g6hI1OW-47" value="14: Entregar Pedido" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1" source="Js_gDo-z3o8k7g6hI1OW-46">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1385" y="1710" as="sourcePoint" />
+            <mxPoint x="855" y="1710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Js_gDo-z3o8k7g6hI1OW-52" value="14.1:Valorar Servicio" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="1766" as="sourcePoint" />
+            <mxPoint x="1505" y="1766" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Js_gDo-z3o8k7g6hI1OW-49" value="15: Notificar Pedido&lt;br&gt;&amp;nbsp;Entregado" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1" target="2gvUbjZp-77DNCsw5NPX-19">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1508" y="1831" as="sourcePoint" />
+            <mxPoint x="1355" y="1831" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
