@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T14:26:37.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="FFB3o7bliRZtcBnBoIUz" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-25T05:05:16.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="J5cHglaq2dE40lIOxoG8" version="14.9.9" type="github">
   <diagram id="1xsWs5C1Qi4gCplDLGIl" name="Page-1">
-    <mxGraphModel dx="-14" dy="1625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,7 +173,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FCWuMlHsNswgLRa9BoQ1-4" value="Contactar&lt;br&gt;Restaurante" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="1845" y="-68.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="1845" y="-28.62" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCWuMlHsNswgLRa9BoQ1-5" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FCWuMlHsNswgLRa9BoQ1-21" target="pjJrgI3MQ-hdJMZlSKrB-5" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -185,7 +185,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FCWuMlHsNswgLRa9BoQ1-6" value="Consultar&lt;br&gt;Información&lt;br&gt;Oferta" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="1677.3899999999999" y="-68.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="1677.3899999999999" y="-74.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCWuMlHsNswgLRa9BoQ1-21" value="Consultar Ofertas&lt;br&gt;Disponibles" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="1677.3899999999999" y="-183.75" width="120" height="60" as="geometry" />
@@ -229,7 +229,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Ovdh9Z-hhBzN2Mhjf_m-15" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FCWuMlHsNswgLRa9BoQ1-21" target="FCWuMlHsNswgLRa9BoQ1-4" edge="1">
+        <mxCell id="2Ovdh9Z-hhBzN2Mhjf_m-15" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FCWuMlHsNswgLRa9BoQ1-6" target="FCWuMlHsNswgLRa9BoQ1-4" edge="1">
           <mxGeometry x="0.3333" width="160" relative="1" as="geometry">
             <mxPoint x="1747.3899999999999" y="-113.75000000000023" as="sourcePoint" />
             <mxPoint x="1747.3899999999999" y="-53.25" as="targetPoint" />
