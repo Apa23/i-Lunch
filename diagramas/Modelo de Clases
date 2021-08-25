@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T15:42:47.050Z" agent="5.0 (Windows)" etag="Fr72HyTA80Jkpf9jgVbm" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-25T04:15:13.334Z" agent="5.0 (Windows)" etag="2otWZrlwY3s73PqwBFqM" version="14.9.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
         <mxCell id="4HfJj__xJHXxp1WtyuyF-20" value="-verificarEstadoAplicacion()&#xa;-adjuntarDocumento()&#xa;-modificarexperienciadeTrabajo()&#xa;-regresarModoCliente()&#xa;&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="4HfJj__xJHXxp1WtyuyF-17" vertex="1">
           <mxGeometry y="88" width="198" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="Ta3vI_dBQkz5bUrocUNU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.499;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=diamond;endFill=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="exa-ox41BmQNiuNzlLpZ-16" target="4HfJj__xJHXxp1WtyuyF-10" edge="1">
+        <mxCell id="Ta3vI_dBQkz5bUrocUNU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.499;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=diamond;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="exa-ox41BmQNiuNzlLpZ-16" target="4HfJj__xJHXxp1WtyuyF-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="690" as="targetPoint" />
           </mxGeometry>
